@@ -1,0 +1,24 @@
+{
+  "name": "nodejsapitutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makofane41/nodejsAPItutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makofane41/nodejsAPItutorial/issues"
+  },
+  "homepage": "https://github.com/makofane41/nodejsAPItutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
